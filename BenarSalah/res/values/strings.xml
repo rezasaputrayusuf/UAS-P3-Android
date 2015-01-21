@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Benar Salah</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="large_text">Benar Atau salah</string>
+    <string name="mulai">MULAI</string>
+    <string name="this_is_child">Area Main</string>
+    <string name="back_to_main">Kembali</string>
+    <string name="textview">Pertanyaan</string>
+    <string name="button">Salah</string>
+    <string name="skor_tertinggi">SKOR TERTINGGI</string>
+
+</resources>
